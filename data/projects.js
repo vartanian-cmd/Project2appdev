@@ -1,4 +1,5 @@
 import tutorcenter from '../assets/tutorcenter.png';
+import Pacman from '../assets/Pacman.png';
 
 const projects = [
   {
@@ -10,6 +11,18 @@ const projects = [
     image: tutorcenter,
     tech: ["MySQL", "PHP", "CSS Modules"],
     github: "https://github.com/npaul-2/TutoringCenter/tree/main",
+    year: "2025",
+    role: "Developer",
+  },
+  {
+    id: 2,
+    slug: "A*-Search-Pacman",
+    title: "Pacman using A* Search Algorithm",
+    description: "",
+    excerpt: "A recreation of the popular game Pacman using the A* Search algorithm for enemy pathfinding",
+    image: Pacman,
+    tech: ["Unity", "C#",],
+    github: "https://github.com/vartanian-cmd/A-Pacman",
     year: "2025",
     role: "Developer",
   },
