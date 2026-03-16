@@ -1,5 +1,4 @@
-# Project2appdev
-# Portfolio
+# Project 2 App Development React Portfolio Website
 
 # Tech Stack
 
